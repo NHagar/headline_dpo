@@ -11,4 +11,7 @@ dependencies = [
     "numpy>=2.2.2",
     "pandas>=2.2.3",
     "requests>=2.32.3",
+    "ruff>=0.9.4",
+    "tenacity>=9.0.0",
+    "tqdm>=4.67.1",
 ]
